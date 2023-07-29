@@ -1,0 +1,548 @@
+Región,Tipo de contaminate,count
+Antofagasta,Aceites y Grasas,15
+Antofagasta,Aluminio,15
+Antofagasta,Arsénico,16
+Antofagasta,Boro,6
+Antofagasta,Cadmio,11
+Antofagasta,Cianuro,10
+Antofagasta,Cloruros,6
+Antofagasta,Cobre,13
+Antofagasta,Cromo Hexavalente,10
+Antofagasta,Cromo Total,12
+Antofagasta,Estaño,12
+Antofagasta,Fluoruro,18
+Antofagasta,Fósforo,12
+Antofagasta,Hidrocarburos Fijos,2
+Antofagasta,Hidrocarburos Totales,10
+Antofagasta,Hidrocarburos Volatiles,10
+Antofagasta,Hidrocarburos Volátiles,1
+Antofagasta,Hierro Disuelto,12
+Antofagasta,Indice Fenol,12
+Antofagasta,Manganeso,16
+Antofagasta,Mercurio,10
+Antofagasta,Molibdeno,16
+Antofagasta,Nitrógeno Total  Kjeldahl,11
+Antofagasta,Níquel,11
+Antofagasta,Plomo,10
+Antofagasta,SAAM,14
+Antofagasta,Sulfato,6
+Antofagasta,Sulfuro,13
+Antofagasta,Sólidos Suspendidos Totales,25
+Antofagasta,Triclorometano,1
+Antofagasta,Zinc,17
+Araucanía,Aceites y Grasas,62
+Araucanía,Aluminio,39
+Araucanía,Arsénico,37
+Araucanía,Benceno,3
+Araucanía,Boro,30
+Araucanía,Cadmio,36
+Araucanía,Cianuro,35
+Araucanía,Cloruros,49
+Araucanía,Cobre,36
+Araucanía,Cromo Hexavalente,35
+Araucanía,Cromo Total,7
+Araucanía,Estaño,6
+Araucanía,Fluoruro,37
+Araucanía,Fósforo,54
+Araucanía,Hidrocarburos Fijos,29
+Araucanía,Hidrocarburos Totales,6
+Araucanía,Hidrocarburos Volatiles,2
+Araucanía,Hierro,1
+Araucanía,Hierro Disuelto,40
+Araucanía,Indice Fenol,32
+Araucanía,Manganeso,37
+Araucanía,Mercurio,35
+Araucanía,Molibdeno,36
+Araucanía,N-Nitrato + N-Nitrito,5
+Araucanía,Nitrógeno Total  Kjeldahl,52
+Araucanía,Níquel,35
+Araucanía,Pentaclorofenol,29
+Araucanía,Plomo,35
+Araucanía,SAAM,8
+Araucanía,Sulfato,40
+Araucanía,Sulfuro,36
+Araucanía,Sólidos Suspendidos Totales,54
+Araucanía,Tetracloroeteno,29
+Araucanía,Tolueno,29
+Araucanía,Triclorometano,31
+Araucanía,Xileno,28
+Araucanía,Zinc,37
+Arica y Parinacota,Aceites y Grasas,3
+Arica y Parinacota,Aluminio,3
+Arica y Parinacota,Arsénico,3
+Arica y Parinacota,Cadmio,3
+Arica y Parinacota,Cianuro,3
+Arica y Parinacota,Cobre,3
+Arica y Parinacota,Cromo Hexavalente,3
+Arica y Parinacota,Cromo Total,3
+Arica y Parinacota,Estaño,3
+Arica y Parinacota,Fluoruro,3
+Arica y Parinacota,Hidrocarburos Fijos,1
+Arica y Parinacota,Hidrocarburos Totales,2
+Arica y Parinacota,Hidrocarburos Volatiles,2
+Arica y Parinacota,Indice Fenol,3
+Arica y Parinacota,Manganeso,3
+Arica y Parinacota,Mercurio,3
+Arica y Parinacota,Molibdeno,3
+Arica y Parinacota,Níquel,3
+Arica y Parinacota,Plomo,3
+Arica y Parinacota,SAAM,3
+Arica y Parinacota,Sulfuro,3
+Arica y Parinacota,Sólidos Suspendidos Totales,3
+Arica y Parinacota,Zinc,3
+Atacama,Aceites y Grasas,18
+Atacama,Aluminio,8
+Atacama,Arsénico,9
+Atacama,Boro,5
+Atacama,Cadmio,7
+Atacama,Cianuro,4
+Atacama,Cloruros,4
+Atacama,Cobre,10
+Atacama,Cromo Hexavalente,6
+Atacama,Cromo Total,10
+Atacama,Estaño,5
+Atacama,Fluoruro,13
+Atacama,Fósforo,8
+Atacama,Hidrocarburos Fijos,5
+Atacama,Hidrocarburos Totales,8
+Atacama,Hidrocarburos Volatiles,6
+Atacama,Hierro Disuelto,10
+Atacama,Indice Fenol,5
+Atacama,Manganeso,9
+Atacama,Mercurio,6
+Atacama,Molibdeno,5
+Atacama,Nitrógeno Amoniacal,1
+Atacama,Nitrógeno Total  Kjeldahl,11
+Atacama,Níquel,11
+Atacama,Pentaclorofenol,1
+Atacama,Plomo,7
+Atacama,SAAM,14
+Atacama,Sulfato,4
+Atacama,Sulfuro,8
+Atacama,Sólidos Suspendidos Totales,18
+Atacama,Tetracloroeteno,1
+Atacama,Tolueno,1
+Atacama,Triclorometano,1
+Atacama,Xileno,1
+Atacama,Zinc,11
+Aysén del Gral. Carlos Ibañez del Campo,Aceites y Grasas,14
+Aysén del Gral. Carlos Ibañez del Campo,Aluminio,7
+Aysén del Gral. Carlos Ibañez del Campo,Arsénico,6
+Aysén del Gral. Carlos Ibañez del Campo,Boro,3
+Aysén del Gral. Carlos Ibañez del Campo,Cadmio,6
+Aysén del Gral. Carlos Ibañez del Campo,Cianuro,5
+Aysén del Gral. Carlos Ibañez del Campo,Cloruros,8
+Aysén del Gral. Carlos Ibañez del Campo,Cobre,7
+Aysén del Gral. Carlos Ibañez del Campo,Cromo Hexavalente,6
+Aysén del Gral. Carlos Ibañez del Campo,Cromo Total,2
+Aysén del Gral. Carlos Ibañez del Campo,Estaño,2
+Aysén del Gral. Carlos Ibañez del Campo,Fluoruro,6
+Aysén del Gral. Carlos Ibañez del Campo,Fósforo,12
+Aysén del Gral. Carlos Ibañez del Campo,Hidrocarburos Fijos,4
+Aysén del Gral. Carlos Ibañez del Campo,Hidrocarburos Totales,4
+Aysén del Gral. Carlos Ibañez del Campo,Hidrocarburos Volatiles,3
+Aysén del Gral. Carlos Ibañez del Campo,Hierro,1
+Aysén del Gral. Carlos Ibañez del Campo,Hierro Disuelto,7
+Aysén del Gral. Carlos Ibañez del Campo,Indice Fenol,4
+Aysén del Gral. Carlos Ibañez del Campo,Manganeso,6
+Aysén del Gral. Carlos Ibañez del Campo,Mercurio,5
+Aysén del Gral. Carlos Ibañez del Campo,Molibdeno,5
+Aysén del Gral. Carlos Ibañez del Campo,Nitrógeno Total  Kjeldahl,11
+Aysén del Gral. Carlos Ibañez del Campo,Níquel,4
+Aysén del Gral. Carlos Ibañez del Campo,Pentaclorofenol,2
+Aysén del Gral. Carlos Ibañez del Campo,Plomo,7
+Aysén del Gral. Carlos Ibañez del Campo,SAAM,6
+Aysén del Gral. Carlos Ibañez del Campo,Sulfato,7
+Aysén del Gral. Carlos Ibañez del Campo,Sulfuro,8
+Aysén del Gral. Carlos Ibañez del Campo,Sólidos Suspendidos Totales,16
+Aysén del Gral. Carlos Ibañez del Campo,Tetracloroeteno,3
+Aysén del Gral. Carlos Ibañez del Campo,Tolueno,3
+Aysén del Gral. Carlos Ibañez del Campo,Triclorometano,2
+Aysén del Gral. Carlos Ibañez del Campo,Xileno,2
+Aysén del Gral. Carlos Ibañez del Campo,Zinc,11
+Biobío,Aceites y Grasas,55
+Biobío,Aluminio,51
+Biobío,Arsénico,42
+Biobío,Benceno,1
+Biobío,Boro,26
+Biobío,Cadmio,36
+Biobío,Cianuro,36
+Biobío,Cloruros,30
+Biobío,Cobre,46
+Biobío,Cromo Hexavalente,35
+Biobío,Cromo Total,22
+Biobío,Estaño,21
+Biobío,Fluoruro,45
+Biobío,Fósforo,38
+Biobío,Hidrocarburos Fijos,24
+Biobío,Hidrocarburos Totales,19
+Biobío,Hidrocarburos Volatiles,17
+Biobío,Hierro,1
+Biobío,Hierro Disuelto,35
+Biobío,Indice Fenol,42
+Biobío,Manganeso,47
+Biobío,Mercurio,35
+Biobío,Molibdeno,37
+Biobío,N-Nitrato + N-Nitrito,3
+Biobío,Nitrógeno Amoniacal,2
+Biobío,Nitrógeno Total  Kjeldahl,36
+Biobío,Níquel,37
+Biobío,Pentaclorofenol,19
+Biobío,Plomo,37
+Biobío,SAAM,28
+Biobío,Sulfato,29
+Biobío,Sulfuro,39
+Biobío,Sólidos Suspendidos Totales,61
+Biobío,Tetracloroeteno,21
+Biobío,Tolueno,19
+Biobío,Triclorometano,20
+Biobío,Xileno,19
+Biobío,Zinc,48
+Coquimbo,Aceites y Grasas,31
+Coquimbo,Aluminio,9
+Coquimbo,Arsénico,9
+Coquimbo,Boro,6
+Coquimbo,Cadmio,9
+Coquimbo,Cianuro,8
+Coquimbo,Cloruros,5
+Coquimbo,Cobre,18
+Coquimbo,Cromo Hexavalente,8
+Coquimbo,Cromo Total,9
+Coquimbo,Estaño,2
+Coquimbo,Fluoruro,7
+Coquimbo,Fósforo,25
+Coquimbo,Hidrocarburos Fijos,6
+Coquimbo,Hidrocarburos Totales,6
+Coquimbo,Hidrocarburos Volatiles,3
+Coquimbo,Hidrocarburos Volátiles,4
+Coquimbo,Hierro Disuelto,3
+Coquimbo,Indice Fenol,5
+Coquimbo,Manganeso,4
+Coquimbo,Mercurio,8
+Coquimbo,Molibdeno,4
+Coquimbo,Nitrógeno Total  Kjeldahl,10
+Coquimbo,Níquel,8
+Coquimbo,Pentaclorofenol,2
+Coquimbo,Plomo,8
+Coquimbo,SAAM,6
+Coquimbo,Sulfato,6
+Coquimbo,Sulfuro,9
+Coquimbo,Sólidos Suspendidos Totales,32
+Coquimbo,Tetracloroeteno,3
+Coquimbo,Tolueno,2
+Coquimbo,Triclorometano,3
+Coquimbo,Xileno,2
+Coquimbo,Zinc,11
+Libertador Gral. Bernardo O'Higgins,Aceites y Grasas,35
+Libertador Gral. Bernardo O'Higgins,Aluminio,23
+Libertador Gral. Bernardo O'Higgins,Arsénico,23
+Libertador Gral. Bernardo O'Higgins,Benceno,1
+Libertador Gral. Bernardo O'Higgins,Boro,24
+Libertador Gral. Bernardo O'Higgins,Cadmio,23
+Libertador Gral. Bernardo O'Higgins,Cianuro,23
+Libertador Gral. Bernardo O'Higgins,Cloruros,23
+Libertador Gral. Bernardo O'Higgins,Cobre,23
+Libertador Gral. Bernardo O'Higgins,Cromo Hexavalente,23
+Libertador Gral. Bernardo O'Higgins,Cromo Total,1
+Libertador Gral. Bernardo O'Higgins,Fluoruro,23
+Libertador Gral. Bernardo O'Higgins,Fósforo,34
+Libertador Gral. Bernardo O'Higgins,Hidrocarburos Fijos,25
+Libertador Gral. Bernardo O'Higgins,Hidrocarburos Totales,1
+Libertador Gral. Bernardo O'Higgins,Hierro Disuelto,23
+Libertador Gral. Bernardo O'Higgins,Indice Fenol,24
+Libertador Gral. Bernardo O'Higgins,Manganeso,23
+Libertador Gral. Bernardo O'Higgins,Mercurio,23
+Libertador Gral. Bernardo O'Higgins,Molibdeno,23
+Libertador Gral. Bernardo O'Higgins,N-Nitrato + N-Nitrito,1
+Libertador Gral. Bernardo O'Higgins,Nitrógeno Amoniacal,1
+Libertador Gral. Bernardo O'Higgins,Nitrógeno Total  Kjeldahl,35
+Libertador Gral. Bernardo O'Higgins,Níquel,23
+Libertador Gral. Bernardo O'Higgins,Pentaclorofenol,23
+Libertador Gral. Bernardo O'Higgins,Plomo,23
+Libertador Gral. Bernardo O'Higgins,Sulfato,23
+Libertador Gral. Bernardo O'Higgins,Sulfuro,23
+Libertador Gral. Bernardo O'Higgins,Sólidos Suspendidos Totales,35
+Libertador Gral. Bernardo O'Higgins,Tetracloroeteno,24
+Libertador Gral. Bernardo O'Higgins,Tolueno,23
+Libertador Gral. Bernardo O'Higgins,Triclorometano,27
+Libertador Gral. Bernardo O'Higgins,Xileno,23
+Libertador Gral. Bernardo O'Higgins,Zinc,23
+Los Lagos,Aceites y Grasas,149
+Los Lagos,Aluminio,95
+Los Lagos,Arsénico,69
+Los Lagos,Boro,56
+Los Lagos,Bromodiclorometano,2
+Los Lagos,Cadmio,72
+Los Lagos,Cianuro,63
+Los Lagos,Cloruros,78
+Los Lagos,Cobre,84
+Los Lagos,Cromo Hexavalente,64
+Los Lagos,Cromo Total,26
+Los Lagos,Estaño,27
+Los Lagos,Fluoruro,74
+Los Lagos,Fósforo,105
+Los Lagos,Hidrocarburos Fijos,49
+Los Lagos,Hidrocarburos Totales,25
+Los Lagos,Hidrocarburos Volatiles,26
+Los Lagos,Hierro,4
+Los Lagos,Hierro Disuelto,71
+Los Lagos,Indice Fenol,79
+Los Lagos,Manganeso,86
+Los Lagos,Mercurio,66
+Los Lagos,Molibdeno,71
+Los Lagos,N-Nitrato + N-Nitrito,3
+Los Lagos,Nitrógeno Amoniacal,4
+Los Lagos,Nitrógeno Total  Kjeldahl,110
+Los Lagos,Níquel,64
+Los Lagos,Pentaclorofenol,53
+Los Lagos,Plomo,67
+Los Lagos,SAAM,74
+Los Lagos,Sulfato,68
+Los Lagos,Sulfuro,74
+Los Lagos,Sólidos Suspendidos Totales,147
+Los Lagos,Tetracloroeteno,52
+Los Lagos,Tolueno,38
+Los Lagos,Triclorometano,54
+Los Lagos,Xileno,38
+Los Lagos,Zinc,93
+Los Ríos,Aceites y Grasas,62
+Los Ríos,Aluminio,35
+Los Ríos,Arsénico,31
+Los Ríos,Benceno,2
+Los Ríos,Boro,27
+Los Ríos,Cadmio,31
+Los Ríos,Cianuro,30
+Los Ríos,Cloruros,31
+Los Ríos,Cobre,33
+Los Ríos,Cromo Hexavalente,29
+Los Ríos,Cromo Total,7
+Los Ríos,Estaño,5
+Los Ríos,Fluoruro,29
+Los Ríos,Fósforo,58
+Los Ríos,Hidrocarburos Fijos,25
+Los Ríos,Hidrocarburos Totales,8
+Los Ríos,Hidrocarburos Volatiles,2
+Los Ríos,Hidrocarburos Volátiles,3
+Los Ríos,Hierro,2
+Los Ríos,Hierro Disuelto,35
+Los Ríos,Indice Fenol,30
+Los Ríos,Manganeso,32
+Los Ríos,Mercurio,30
+Los Ríos,Molibdeno,28
+Los Ríos,N-Nitrato + N-Nitrito,2
+Los Ríos,Nitrógeno Total  Kjeldahl,37
+Los Ríos,Níquel,30
+Los Ríos,Pentaclorofenol,24
+Los Ríos,Plomo,30
+Los Ríos,SAAM,8
+Los Ríos,Sulfato,33
+Los Ríos,Sulfuro,32
+Los Ríos,Sólidos Suspendidos Totales,60
+Los Ríos,Tetracloroeteno,25
+Los Ríos,Tolueno,25
+Los Ríos,Triclorometano,24
+Los Ríos,Xileno,23
+Los Ríos,Zinc,34
+Magallanes y de la Antártica Chilena,Aceites y Grasas,17
+Magallanes y de la Antártica Chilena,Aluminio,15
+Magallanes y de la Antártica Chilena,Arsénico,12
+Magallanes y de la Antártica Chilena,Boro,5
+Magallanes y de la Antártica Chilena,Cadmio,13
+Magallanes y de la Antártica Chilena,Cianuro,10
+Magallanes y de la Antártica Chilena,Cloruros,8
+Magallanes y de la Antártica Chilena,Cobre,12
+Magallanes y de la Antártica Chilena,Cromo Hexavalente,10
+Magallanes y de la Antártica Chilena,Cromo Total,6
+Magallanes y de la Antártica Chilena,Estaño,6
+Magallanes y de la Antártica Chilena,Fluoruro,12
+Magallanes y de la Antártica Chilena,Fósforo,7
+Magallanes y de la Antártica Chilena,Hidrocarburos Fijos,4
+Magallanes y de la Antártica Chilena,Hidrocarburos Totales,9
+Magallanes y de la Antártica Chilena,Hidrocarburos Volatiles,8
+Magallanes y de la Antártica Chilena,Hierro Disuelto,5
+Magallanes y de la Antártica Chilena,Indice Fenol,12
+Magallanes y de la Antártica Chilena,Manganeso,13
+Magallanes y de la Antártica Chilena,Mercurio,10
+Magallanes y de la Antártica Chilena,Molibdeno,11
+Magallanes y de la Antártica Chilena,Nitrógeno Total  Kjeldahl,7
+Magallanes y de la Antártica Chilena,Níquel,12
+Magallanes y de la Antártica Chilena,Pentaclorofenol,5
+Magallanes y de la Antártica Chilena,Plomo,11
+Magallanes y de la Antártica Chilena,SAAM,9
+Magallanes y de la Antártica Chilena,Sulfato,6
+Magallanes y de la Antártica Chilena,Sulfuro,13
+Magallanes y de la Antártica Chilena,Sólidos Suspendidos Totales,20
+Magallanes y de la Antártica Chilena,Tetracloroeteno,6
+Magallanes y de la Antártica Chilena,Tolueno,4
+Magallanes y de la Antártica Chilena,Triclorometano,5
+Magallanes y de la Antártica Chilena,Xileno,4
+Magallanes y de la Antártica Chilena,Zinc,13
+Maule,Aceites y Grasas,37
+Maule,Aluminio,25
+Maule,Arsénico,17
+Maule,Boro,17
+Maule,Cadmio,18
+Maule,Cianuro,18
+Maule,Cloruros,23
+Maule,Cobre,17
+Maule,Cromo Hexavalente,18
+Maule,Cromo Total,1
+Maule,Estaño,1
+Maule,Fluoruro,17
+Maule,Fósforo,44
+Maule,Hidrocarburos Fijos,20
+Maule,Hidrocarburos Totales,1
+Maule,Hidrocarburos Volatiles,1
+Maule,Hierro Disuelto,20
+Maule,Indice Fenol,21
+Maule,Manganeso,22
+Maule,Mercurio,17
+Maule,Molibdeno,17
+Maule,Nitrógeno Total  Kjeldahl,42
+Maule,Níquel,18
+Maule,Pentaclorofenol,17
+Maule,Plomo,17
+Maule,SAAM,2
+Maule,Sulfato,20
+Maule,Sulfuro,21
+Maule,Sólidos Suspendidos Totales,52
+Maule,Tetracloroeteno,16
+Maule,Tolueno,16
+Maule,Triclorometano,16
+Maule,Xileno,16
+Maule,Zinc,23
+Metropolitana de Santiago,Aceites y Grasas,48
+Metropolitana de Santiago,Aluminio,30
+Metropolitana de Santiago,Arsénico,22
+Metropolitana de Santiago,Benceno,4
+Metropolitana de Santiago,Boro,24
+Metropolitana de Santiago,Cadmio,24
+Metropolitana de Santiago,Cianuro,23
+Metropolitana de Santiago,Cloruros,28
+Metropolitana de Santiago,Cobre,25
+Metropolitana de Santiago,Cromo Hexavalente,23
+Metropolitana de Santiago,Cromo Total,1
+Metropolitana de Santiago,Fluoruro,22
+Metropolitana de Santiago,Fósforo,48
+Metropolitana de Santiago,Hidrocarburos Fijos,27
+Metropolitana de Santiago,Hidrocarburos Totales,2
+Metropolitana de Santiago,Hidrocarburos Volatiles,2
+Metropolitana de Santiago,Hierro,1
+Metropolitana de Santiago,Hierro Disuelto,30
+Metropolitana de Santiago,Indice Fenol,17
+Metropolitana de Santiago,Manganeso,31
+Metropolitana de Santiago,Mercurio,21
+Metropolitana de Santiago,Molibdeno,21
+Metropolitana de Santiago,N-Nitrato + N-Nitrito,7
+Metropolitana de Santiago,Nitrógeno Total  Kjeldahl,49
+Metropolitana de Santiago,Níquel,24
+Metropolitana de Santiago,Pentaclorofenol,20
+Metropolitana de Santiago,Plomo,25
+Metropolitana de Santiago,SAAM,1
+Metropolitana de Santiago,Sulfato,41
+Metropolitana de Santiago,Sulfuro,21
+Metropolitana de Santiago,Sólidos Suspendidos Totales,62
+Metropolitana de Santiago,Tetracloroeteno,20
+Metropolitana de Santiago,Tolueno,20
+Metropolitana de Santiago,Triclorometano,22
+Metropolitana de Santiago,Xileno,20
+Metropolitana de Santiago,Zinc,32
+Tarapacá,Aceites y Grasas,4
+Tarapacá,Aluminio,4
+Tarapacá,Arsénico,2
+Tarapacá,Boro,3
+Tarapacá,Cadmio,4
+Tarapacá,Cianuro,1
+Tarapacá,Cloruros,4
+Tarapacá,Cobre,3
+Tarapacá,Cromo Hexavalente,1
+Tarapacá,Cromo Total,2
+Tarapacá,Estaño,4
+Tarapacá,Fluoruro,3
+Tarapacá,Fósforo,4
+Tarapacá,Hidrocarburos Fijos,2
+Tarapacá,Hidrocarburos Totales,2
+Tarapacá,Hidrocarburos Volatiles,2
+Tarapacá,Hierro Disuelto,5
+Tarapacá,Indice Fenol,4
+Tarapacá,Manganeso,3
+Tarapacá,Mercurio,2
+Tarapacá,Molibdeno,5
+Tarapacá,Nitrógeno Total  Kjeldahl,5
+Tarapacá,Níquel,3
+Tarapacá,Plomo,2
+Tarapacá,SAAM,3
+Tarapacá,Sulfato,3
+Tarapacá,Sulfuro,4
+Tarapacá,Sólidos Suspendidos Totales,5
+Tarapacá,Tolueno,1
+Tarapacá,Zinc,5
+Valparaíso,Aceites y Grasas,45
+Valparaíso,Aluminio,37
+Valparaíso,Arsénico,38
+Valparaíso,Boro,20
+Valparaíso,Cadmio,36
+Valparaíso,Cianuro,31
+Valparaíso,Cloruros,23
+Valparaíso,Cobre,39
+Valparaíso,Cromo Hexavalente,29
+Valparaíso,Cromo Total,20
+Valparaíso,Estaño,17
+Valparaíso,Fluoruro,38
+Valparaíso,Fósforo,28
+Valparaíso,Hidrocarburos Fijos,21
+Valparaíso,Hidrocarburos Totales,18
+Valparaíso,Hidrocarburos Volatiles,17
+Valparaíso,Hierro,1
+Valparaíso,Hierro Disuelto,28
+Valparaíso,Indice Fenol,33
+Valparaíso,Manganeso,37
+Valparaíso,Mercurio,33
+Valparaíso,Molibdeno,36
+Valparaíso,Nitrógeno Total  Kjeldahl,29
+Valparaíso,Níquel,36
+Valparaíso,Pentaclorofenol,14
+Valparaíso,Plomo,35
+Valparaíso,SAAM,22
+Valparaíso,Sulfato,22
+Valparaíso,Sulfuro,33
+Valparaíso,Sólidos Suspendidos Totales,48
+Valparaíso,Tetracloroeteno,14
+Valparaíso,Tolueno,14
+Valparaíso,Triclorometano,15
+Valparaíso,Xileno,14
+Valparaíso,Zinc,38
+Ñuble,Aceites y Grasas,12
+Ñuble,Aluminio,12
+Ñuble,Arsénico,12
+Ñuble,Boro,10
+Ñuble,Cadmio,12
+Ñuble,Cianuro,11
+Ñuble,Cloruros,11
+Ñuble,Cobre,12
+Ñuble,Cromo Hexavalente,11
+Ñuble,Cromo Total,1
+Ñuble,Estaño,1
+Ñuble,Fluoruro,12
+Ñuble,Fósforo,12
+Ñuble,Hidrocarburos Fijos,11
+Ñuble,Hidrocarburos Totales,1
+Ñuble,Hidrocarburos Volatiles,1
+Ñuble,Hierro Disuelto,11
+Ñuble,Indice Fenol,11
+Ñuble,Manganeso,12
+Ñuble,Mercurio,12
+Ñuble,Molibdeno,12
+Ñuble,Nitrógeno Total  Kjeldahl,12
+Ñuble,Níquel,12
+Ñuble,Pentaclorofenol,11
+Ñuble,Plomo,12
+Ñuble,SAAM,1
+Ñuble,Sulfato,11
+Ñuble,Sulfuro,12
+Ñuble,Sólidos Suspendidos Totales,12
+Ñuble,Tetracloroeteno,11
+Ñuble,Tolueno,11
+Ñuble,Triclorometano,11
+Ñuble,Xileno,11
+Ñuble,Zinc,12
